@@ -49,9 +49,7 @@ body{
   font-weight: 400;
   font-variant: small-caps;}
   
-  
-  #tabs{background-color: white; padding: 20px; margin:20px; border-radius: 20px;}
-  
+  #tabs{background-color: white; padding: 10px; margin:20px; border-radius: 20px; font-size: 10pt;}
   
   h2{color:#0D0D0D; text-align: center;font-family: "Arial Black", Gadget, sans-serif;
   font-size: 25px;
@@ -90,8 +88,7 @@ body{
   
   a:hover{
   color:#D96666;
-    font-size:20px;
-    
+    font-size:14px;    
   }
   
   
